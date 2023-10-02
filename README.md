@@ -35,7 +35,7 @@ You can also specify text colors using hexadecimal values. Here's an example:
 ```python
 from simple_color import SimpleColor
 
-text = "Hello, VisualSynced!"
+text = "Hello, world!"
 
 # Using hex text color
 colored_text_hex = SimpleColor.hex_colorize(text, '#FF4500')  # Orange text color
